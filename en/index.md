@@ -1,5 +1,7 @@
 # Package for LanFilePackage
 
+[简体中文？点击前往](/ch/)
+
 Please install LanFilePackage first.
 
 [click to install!](https://langong-dev.github.io/LanFilePackage/)
