@@ -1,5 +1,7 @@
 # LanGong 包管理器
 
+[English? Click to English](/Package/)
+
 请先下载并安装LanFilePackage。
 
 [点击下载!](https://langong-dev.github.com/LanFilePackage/)
