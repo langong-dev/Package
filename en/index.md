@@ -2,7 +2,7 @@
 
 Please install LanFilePackage first.
 
-[click to install!](https://github.com/langong-dev/LanFilePackage/)
+[click to install!](https://langong-dev.github.io/LanFilePackage/)
 
 ## Packages
 
