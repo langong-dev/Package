@@ -1,6 +1,6 @@
 # Package for LanFilePackage
 
-[简体中文？点击前往](/ch/)
+[简体中文？点击前往](/Package/ch/)
 
 Please install LanFilePackage first.
 
