@@ -10,11 +10,11 @@
 
 | 名称 | 命令 |
 |:---:|:---:|
-| LanFilePackage | / |
-| Timer | ./LanGong install langong Timer |
-| BingWallPaper-downloader | ./LanGong install langong BingWallPaper-downloader |
-| DataCreater | ./LanGong install langong DataCreater |
-| Zff | ./LanGong install langong Zff |
+| [LanFilePackage](https://langong-dev.github.io/LanFilePackage/) | / |
+| [Timer](https://langong-dev.github.io/Timer/) | ./LanGong install langong Timer |
+| [BingWallPaper-downloader](https://langong-dev.github.io/BingWallPaper-downloader/) | ./LanGong install langong BingWallPaper-downloader |
+| [DataCreater](https://langong-dev.github.io/DataCreater/) | ./LanGong install langong DataCreater |
+| [Zff](https://langong-dev.github.io/Zff/) | ./LanGong install langong Zff |
 
 ## 下载更多包
 
