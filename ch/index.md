@@ -15,6 +15,7 @@
 | [BingWallPaper-downloader](https://langong-dev.github.io/BingWallPaper-downloader/) | ./LanGong install langong BingWallPaper-downloader |
 | [DataCreater](https://langong-dev.github.io/DataCreater/) | ./LanGong install langong DataCreater |
 | [Zff](https://langong-dev.github.io/Zff/) | ./LanGong install langong Zff |
+| [Music163-downloader](https://langong-dev.github.io/music163-downloader/) | ./LanGong install langong music163-downloader |
 
 ## 下载更多包
 
