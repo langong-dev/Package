@@ -16,6 +16,7 @@ Please install LanFilePackage first.
 | [DataCreater](https://langong-dev.github.io/DataCreater/) | ./LanGong install langong DataCreater |
 | [Zff](https://langong-dev.github.io/Zff/) | ./LanGong install langong Zff |
 | [Music163-downloader](https://langong-dev.github.io/music163-downloader/) | ./LanGong install langong music163-downloader |
+| [LanGongSupport](https://langong-dev.github.io/Support/) | ./LanGong install github langong-dev/Support |
 
 ## Some more Packages on the Internet
 
