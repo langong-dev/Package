@@ -10,14 +10,14 @@
 
 | 名称 | 命令 |
 |:---:|:---:|
-| [LanFilePackage](https://langong-dev.github.io/LanFilePackage/) | / |
+| [LanFilePackage](https://langong-dev.github.io/LanFilePackage/) | git clone https://github.com/langong-dev/LanFilePackage.git |
 | [Timer](https://langong-dev.github.io/Timer/) | ./LanGong install langong Timer |
 | [BingWallPaper-downloader](https://langong-dev.github.io/BingWallPaper-downloader/) | ./LanGong install langong BingWallPaper-downloader |
 | [DataCreater](https://langong-dev.github.io/DataCreater/) | ./LanGong install langong DataCreater |
 | [Zff](https://langong-dev.github.io/Zff/) | ./LanGong install langong Zff |
 | [Music163-downloader](https://langong-dev.github.io/music163-downloader/) | ./LanGong install langong music163-downloader |
-| [LanGongSupport](https://langong-dev.github.io/Support/) | ./LanGong install github langong-dev/Support |
-| [NoteText](https://langong-dev.github.io/NoteText/) | ./LanGong install github langong-dev/NoteText |
+| [LanGongSupport](https://langong-dev.github.io/Support/) | ./LanGong install langong Support |
+| [NoteText](https://langong-dev.github.io/NoteText/) | ./LanGong install langong NoteText |
 
 ## 下载更多包
 
