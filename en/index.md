@@ -21,8 +21,8 @@ Please install LanFilePackage first.
 
 ## Some more Packages on the Internet
 
-More Packages on the Internet, you can use me download them!
-[Click me to see more](https://langong-dev.github.io/LanFilePackage/)
+- Get more packages from LanGong, search in LanFilePackage: `./LanGong search`
+- More Packages on the Internet, you can use me download them, [Click me to see more](https://langong-dev.github.io/LanFilePackage/)
 
 # We are LanGong
 

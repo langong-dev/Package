@@ -21,8 +21,8 @@
 
 ## 下载更多包
 
-你可以下载更多来自互联网的包，
-[点击查看更多信息](https://langong-dev.github.io/LanFilePackage/)
+- 你可以搜索更多来自LanGong的软件包，使用方法: `./LanGong search`
+- 你可以下载更多来自互联网的包，[点击查看更多信息](https://langong-dev.github.io/LanFilePackage/)
 
 # 我们是蓝光
 
