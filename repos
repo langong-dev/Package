@@ -1,4 +1,6 @@
 
+ >> These are from LanGong Dev, You can use 'lfp install langong REPO-NAME' to install
+
 Timer
 MarkHtml
 DataCreater
@@ -18,6 +20,10 @@ NoteTextOnline
 Oauth
 FileStation
 feedback
+
+
+ >> These are from Ohzff, You can use 'lfp install zff REPO-NAME' to install
+
 Zff
 Zff-Win
 zff-electron
